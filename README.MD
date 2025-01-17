@@ -66,6 +66,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
+https://caixa-my.sharepoint.com/:b:/r/personal/c067366_corp_caixa_gov_br/Documents/GITHUB%20DIO/e-book%20-%20learnability.pdf?csf=1&web=1&e=v73mw5
 <p>
     <img 
       align=left 
